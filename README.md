@@ -1,4 +1,5 @@
 # Nyuzi Processor
+gpgpu的开源代码，适合研究体系架构，可以直接运行在Cyclone IV FPGA上
 
 [![Build Status](https://travis-ci.org/jbush001/NyuziProcessor.svg?branch=master)](https://travis-ci.org/jbush001/NyuziProcessor)
 [![CircleCI](https://circleci.com/gh/jbush001/NyuziProcessor.svg?style=svg)](https://circleci.com/gh/jbush001/NyuziProcessor)
